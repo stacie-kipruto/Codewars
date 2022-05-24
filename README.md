@@ -1,10 +1,10 @@
 # Codewars
 Python exercises on codewars
 
-File even_odd.py: Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+1. File even_odd.py: Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
 
-File printer_errors: In a factory a printer prints labels for boxes. For one kind of boxes the printer has to use colors which, for the sake of simplicity, are named with letters from a to m.
+2. File printer_errors: In a factory a printer prints labels for boxes. For one kind of boxes the printer has to use colors which, for the sake of simplicity, are named with letters from a to m.
 
 The colors used by the printer are recorded in a control string. For example a "good" control string would be aaabbbbhaijjjm meaning that the printer used three times color a, four times color b, one time color h then one time color a...
 
